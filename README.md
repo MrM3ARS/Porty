@@ -20,7 +20,7 @@ Python dili ile yazılmış olmasına rağmen geliştirdiğim algoritma sayesind
   
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Uygulama Ekran Görüntüsü](https://github.com/MrM3ARS/Porty/blob/main/ScreenShot.PNG)
 
   
 ## Bilgisayarınızda Çalıştırın
