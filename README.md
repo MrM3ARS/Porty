@@ -53,10 +53,10 @@ Uygulamayı çalıştırın
   
 ## Performans Testi
 
-| Uygulama | Hız sn/Port Sayısı  | Verimlilik %   | Doğruluk % |
-|---|---|---||---|
-| Porty | 10 sn/Port Sayısı  | %96  | %93  |
 
+| Uygulama  | Hız sn/Port Sayısı  | Verimlilik %  | Doğruluk %  |
+|---|---|---|---|
+| Porty  | 10 sn/Port Sayısı  | %96  | %93  |
 
 
 ## Yol haritası
