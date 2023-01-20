@@ -28,7 +28,7 @@ Python dili ile yazılmış olmasına rağmen geliştirdiğim algoritma sayesind
 Projeyi klonlayın
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/MrM3ARS/Porty.git
 ```
 
 Proje dizinine gidin
