@@ -61,17 +61,17 @@ Uygulamayı çalıştırın
 
 ## Yol haritası
 
-- Versiyon Tespit Özelliği
+- [ ] Versiyon Tespit Özelliği
 
-- Daha Detaylı Filtreleme Özelliği
+- [ ] Daha Detaylı Filtreleme Özelliği
 
-- Güvenlik Duvarı Tespiti
+- [ ] Güvenlik Duvarı Tespiti
 
-- Zafiyet Tespiti
+- [ ] Zafiyet Tespiti
 
-- Hız ve Performans İyileşitirmeleri
+- [x] Hız ve Performans İyileşitirmeleri
 
-- Bir Çok İşlemi Eş Zamanlı ve Hızlı Yapma Özelliği
+- [ ] Bir Çok İşlemi Eş Zamanlı ve Hızlı Yapma Özelliği
 
   
 ## Destek
